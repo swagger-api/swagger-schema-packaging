@@ -1,0 +1,4 @@
+env:
+  global:
+  - secure: lHbNVYKdW4EEMorXtJdgW2XEVnexjzVlmcN3LIDktxzsYEU2EhdO4X0mrrDKMHgKHmY3Tw5WGLEcdwSgLSIa0dqOsKIZ27TQkI3IPvepCikejzpT/snwITPgWuA0eYj9vrZgccZpAD3aSxeRnttKmA7PANPBo3A9/xd+59CzxOI=
+  - secure: n4FIHhMKWG7YCH7J2V3JLr+R0YS62qMmC7PfyrYhFBe2bIplH5le3Dh/myqhjUPK+ph+GOqm3krzMyvM+5Cdb1YDXRkWO5sntDMsSzDU7qSpGOUSRT/1tUJ/8w6NgkJ+XPRtZde1uq0u6m0HgRE/RBw3+eho428XMVEpeL3fVvA=
